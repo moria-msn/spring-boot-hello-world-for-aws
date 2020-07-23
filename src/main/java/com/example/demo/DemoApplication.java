@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String hello() {
-        return "!!!Hello Spring Boot!!!";
+        return "!!!Hello Spring Boot AutoDeploy!!!";
     }
     
     public static void main(String[] args) {
